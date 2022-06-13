@@ -1,2 +1,2 @@
 # cpp-search-server
-Спринт 1, финальный проект: поисковая система
+Final project, Sprint 1 - Search system
